@@ -1,14 +1,18 @@
+This repository contains 
+
+
+
 Portfolio Optimization using Reinforcement Learning
 
 ```
 Rayda Tatiana POSSI TAHABO (tatiana.possi@aims-cameroon.org)
+============================================================================
 African Institute for Mathematical Sciences (AIMS)
 Cameroon
 ```
 ```
 Supervised by: Dr. Ya ́e U. Gaba
-```
-```
+==============================================================================
 African Institute for Mathematical Sciences
 Research & Innovation Center
 AIMS RIC, Kigali, Rwanda
