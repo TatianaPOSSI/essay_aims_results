@@ -22,7 +22,7 @@ AIMS RIC, Kigali, Rwanda
 Submitted in Partial Fulfillment of a Structured Masters Degree at AIMS-Cameroon
 ```
 
-# Abstract
+## Abstract
 
 This research explores how Reinforcement Learning (RL), a powerful AI technique, can revolutionize portfolio optimization in finance. Compared to traditional methods like Mean-Variance Optimization (MVO), RL offers a significant advantage: its ability to learn and adapt to ever-changing market conditions. Unlike classical machine learning algorithms, RL can capture complex, non-linear relationships within financial data. To demonstrate this effectiveness, we present a real-world case study.  The case study showcases how RL can dynamically adjust portfolio strategies, leading to superior risk-adjusted returns.  By leveraging RL's adaptability and learning capabilities, investors can navigate the complexities of financial markets more effectively, achieving their investment goals.
 
@@ -35,7 +35,7 @@ model`; `supervised machine learning methods`; `deep learning`; `policy-gradient
 
 The results of our investigation can be read [here](https://github.com/TatianaPOSSI/essay_aims_results/blob/main/the_results.md).
 
-# Acknowledgements
+## Acknowledgements
 
 ```
 “It is not that we think we are qualified to do anything on our own. Our qualification comes
