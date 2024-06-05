@@ -1,8 +1,8 @@
-This repository contains 
+This repository contains the results of my [AIMS-CM](https://aims-cameroon.org/) end of year project, titled `Portfolio Optimization using Reinforcement Learning`
 
 
 
-Portfolio Optimization using Reinforcement Learning
+
 
 ```
 Rayda Tatiana POSSI TAHABO (tatiana.possi@aims-cameroon.org)
