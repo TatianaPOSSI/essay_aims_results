@@ -11,7 +11,7 @@ African Institute for Mathematical Sciences (AIMS)
 Cameroon
 ```
 ```
-Supervised by: Dr. Ya ́e U. Gaba
+Supervised by: Dr. Yaé U. Gaba
 ==============================================================================
 African Institute for Mathematical Sciences
 Research & Innovation Center
