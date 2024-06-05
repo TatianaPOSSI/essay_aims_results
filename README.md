@@ -30,7 +30,7 @@ Keywords: `portfolio optimization`; `reinforcement learning`; `mean-variance opt
 model`; `supervised machine learning methods`; `deep learning`; `policy-gradient`; `Q-learning`.
 
 ```
-==============================================================================================================================
+=========================================================================================================================
 ```
 
 The results of our investigation can be read [here](https://github.com/TatianaPOSSI/essay_aims_results/blob/main/the_results.md).
