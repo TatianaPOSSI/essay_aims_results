@@ -24,19 +24,7 @@ Submitted in Partial Fulfillment of a Structured Masters Degree at AIMS-Cameroon
 
 # Abstract
 
-In this work, we provide an in-depth overview of the RL framework and elucidate how its fundamental
-concepts translate to the financial domain of portfolio optimization. It underscores the key advantages
-of RL over traditional methods and sets the stage for a case study illustrating its effectiveness. This
-dissertation explores the transformative potential of Reinforcement Learning (RL) techniques within the
-realm of portfolio optimization in finance. It presents a comprehensive analysis of RL’s efficacy vis-
-́a-vis traditional methodologies such as Mean-Variance Optimization (MVO). RL exhibits an intrinsic
-ability to autonomously adapt to dynamic market conditions, marking a significant advancement over
-classical approaches. It addresses critical limitations inherent in classical machine learning algorithms like
-support vector machines and decision trees, notably their incapacity to capture non-linear relationships
-and adaptability shortcomings. Through a real-world case study, this research showcases RL’s capacity to
-attain superior risk-adjusted returns by dynamically adjusting portfolio strategies in response to evolving
-market dynamics. By harnessing RL’s adaptability and learning capabilities, investors can navigate
-intricate financial landscapes more effectively, maximizing returns while managing risk.
+This research explores how Reinforcement Learning (RL), a powerful AI technique, can revolutionize portfolio optimization in finance. Compared to traditional methods like Mean-Variance Optimization (MVO), RL offers a significant advantage: its ability to learn and adapt to ever-changing market conditions. Unlike classical machine learning algorithms, RL can capture complex, non-linear relationships within financial data. To demonstrate this effectiveness, we present a real-world case study.  The case study showcases how RL can dynamically adjust portfolio strategies, leading to superior risk-adjusted returns.  By leveraging RL's adaptability and learning capabilities, investors can navigate the complexities of financial markets more effectively, achieving their investment goals.
 
 Keywords: `portfolio optimization`; `reinforcement learning`; `mean-variance optimization`; `Black-Litterman
 model`; `supervised machine learning methods`; `deep learning`; `policy-gradient`; `Q-learning`.
