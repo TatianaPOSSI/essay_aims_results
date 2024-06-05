@@ -1,61 +1,4 @@
-
-
-
-Portfolio Optimization using Reinforcement Learning
-
-```
-Rayda Tatiana POSSI TAHABO (tatiana.possi@aims-cameroon.org)
-============================================================================
-African Institute for Mathematical Sciences (AIMS)
-Cameroon
-```
-```
-Supervised by: Dr. Ya ́e U. Gaba
-==============================================================================
-African Institute for Mathematical Sciences
-Research & Innovation Center
-AIMS RIC, Kigali, Rwanda
-```
-```
-18 May 2024
-Submitted in Partial Fulfillment of a Structured Masters Degree at AIMS-Cameroon
-```
-
-# Abstract
-
-In this work, we provide an in-depth overview of the RL framework and elucidate how its fundamental
-concepts translate to the financial domain of portfolio optimization. It underscores the key advantages
-of RL over traditional methods and sets the stage for a case study illustrating its effectiveness. This
-dissertation explores the transformative potential of Reinforcement Learning (RL) techniques within the
-realm of portfolio optimization in finance. It presents a comprehensive analysis of RL’s efficacy vis-
-́a-vis traditional methodologies such as Mean-Variance Optimization (MVO). RL exhibits an intrinsic
-ability to autonomously adapt to dynamic market conditions, marking a significant advancement over
-classical approaches. It addresses critical limitations inherent in classical machine learning algorithms like
-support vector machines and decision trees, notably their incapacity to capture non-linear relationships
-and adaptability shortcomings. Through a real-world case study, this research showcases RL’s capacity to
-attain superior risk-adjusted returns by dynamically adjusting portfolio strategies in response to evolving
-market dynamics. By harnessing RL’s adaptability and learning capabilities, investors can navigate
-intricate financial landscapes more effectively, maximizing returns while managing risk.
-
-Keywords:portfolio optimization; reinforcement learning; mean-variance optimization; Black-Litterman
-model; supervised machine learning methods; deep learning; policy-gradient; Q-learning.
-
-## Declaration
-
-I, the undersigned, hereby declare that the work contained in this essay is my original work, and that
-any work done by others or by myself previously has been acknowledged and referenced accordingly.
-
-Rayda Tatiana POSSI TAHABO, 18 May 2024
-
-```
-i
-```
-
-# Contents
-
-Abstract i
-
-Case Studies and Empirical Results 1
+Case Studies and Empirical Results 
 
 ```
 0.1 Data description....................................... 1
@@ -65,34 +8,6 @@ Case Studies and Empirical Results 1
 0.5 Reinforcement learning methods.............................. 6
 0.6 Performance Metrics and Evaluation Criteria........................ 8
 ```
-Acknowledgements 10
-
-Appendix 11
-
-```
-ii
-```
-
-## List of Figures
-
-- 1 MVO-BL-views1
-- 2 MVO-BL-views2
-- 3 MVO-portfolio
-- 4 BL-views2-portfolio
-- 5 Machine learning methods
-- 6 SVM-portfolio
-- 7 DT-portfolio
-- 8 Traditional and Machine Learning Methods
-- 9 LSTM methods
-- 10 LSTM-portfolio
-- 11 LSTM-2 portfolio
-- 12 LSTM & other methods
-- 13 RL-methods
-- 14 Q-learning-portfolio
-- 15 policy-gradient-portfolio
-- 16 Comparison all methods
-- 17 Table of performance metrics
-- 18 Sharpe ratio of each method
 
 
 # Case Studies and Empirical Results
@@ -146,7 +61,7 @@ calculations.
 ### 1
 
 
-Section 0.2. Traditional Methods: Comparison Page 2
+0.2. Traditional Methods: Comparison
 
 ```
 Figure 1: MVO-BL-views1 Figure 2: MVO-BL-views
@@ -176,7 +91,7 @@ Figure 3: MVO-portfolio Figure 4: BL-views2-portfolio
 *Figure 2: BL-views2-portfolio*
 
 
-Section 0.3. Standard Machine Learning Methods: SVM and Decision tree, comparison Page 3
+
 
 0.3 Standard Machine Learning Methods: SVM and Decision tree,
 
@@ -420,41 +335,9 @@ deep learning techniques appears warranted, this motivates our study of the deep
 gradient in section??.
 
 
-# Acknowledgements
-
-```
-“It is not that we think we are qualified to do anything on our own. Our qualification comes
-from God.” 2 Corinthians 3:
-```
-First and foremost, I am grateful to God for his everlasting love, grace, and mercy throughout this
-journey.
-
-My deepest gratitude extends to AIMS Cameroon and its staff. In particular, Dr. Daniel Duviol
-TCHEUTIA, the Academic Director, for their guidance and leadership in providing a stimulating aca-
-demic environment.
-
-I would like to express my sincere appreciation to my supervisor, Dr. Ya ́e U. Gaba. His tireless guidance,
-unwavering commitment, availability, and support were instrumental in shaping and refining this essay.
-I am forever indebted to his dedication.
-
-Special thanks go to my mother, KOMPA TOUNOUKEU Odile Florence.
-
-I am also incredibly fortunate to have Mr. LEKO MOUTOUO Domini Jocema as a mentor. His advice,
-prayers, availability, and encouragement are invaluable.
-
-Finally, I extend my heartfelt thanks to my classmates, Regine, Laura, Francine, and everyone else for
-making our stay on campus truly enriching.
-
-### 10
 
 
-# Appendix
 
-This repository contains the Python code of the algorithms studied in this essay.
-
-Python implementations
-
-### 11
 
 
 
