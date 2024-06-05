@@ -33,9 +33,9 @@ model`; `supervised machine learning methods`; `deep learning`; `policy-gradient
 =========================================================================================================================
 ```
 
-The results of our investigation can be read [here](https://github.com/TatianaPOSSI/essay_aims_results/blob/main/the_results.md).
+# The results of our investigation can be read [here](https://github.com/TatianaPOSSI/essay_aims_results/blob/main/the_results.md).
 
-## Acknowledgements
+### Acknowledgements
 
 ```
 “It is not that we think we are qualified to do anything on our own. Our qualification comes
