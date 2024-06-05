@@ -33,6 +33,8 @@ model`; `supervised machine learning methods`; `deep learning`; `policy-gradient
 ============================================================================================================
 ```
 
+The results of our investigation can be read [here](https://github.com/TatianaPOSSI/essay_aims_results/blob/main/the_results.md).
+
 # Acknowledgements
 
 ```
